@@ -1,5 +1,5 @@
 <?php
 $names=array("mim","fahad","arifa","saima");
-foreach($names as $bkict){
+foreach($places as $bkict){
     echo $bkict,'</br>';
 }

@@ -31,7 +31,10 @@ $places=array(
         'continent'=>'Europe'),
 
 );
-print_r ($places);
+foreach ($places as $bkict){
+    echo $bkict['city'].'-'.$bkict['country'].'-'.$bkict['continent'] ,'</br>';
+}
+
 echo $places[3];
 echo $places[3]['continent'];
 echo $places[3]['country']='bangladesh';
