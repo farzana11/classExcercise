@@ -34,7 +34,7 @@ $places=array(
 foreach ($places as $bkict){
     echo $bkict['city'].'-'.$bkict['country'].'-'.$bkict['continent'] ,'</br>';
 }
-
+print_r($places);
 echo $places[3];
 echo $places[3]['continent'];
 echo $places[3]['country']='bangladesh';
