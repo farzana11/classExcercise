@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea378c72-9419-4338-94ab-654411e293c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/places.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foreach.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classExcercise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="places.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="places.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/places.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.026929982" vertical-offset="0" max-vertical-offset="557">
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="705">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foreach.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/foreach.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18312387" vertical-offset="0" max-vertical-offset="557">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -103,6 +114,7 @@
         <option value="$PROJECT_DIR$/array_replace() example.php" />
         <option value="$PROJECT_DIR$/array_shift() example.php" />
         <option value="$PROJECT_DIR$/places.php" />
+        <option value="$PROJECT_DIR$/foreach.php" />
       </list>
     </option>
   </component>
@@ -596,8 +608,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/places.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.026929982" vertical-offset="0" max-vertical-offset="557">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="705">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foreach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18312387" vertical-offset="0" max-vertical-offset="557">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           <folding />
         </state>
       </provider>
